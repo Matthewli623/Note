@@ -1,5 +1,7 @@
 # Linear Regression Note
 
+For Continuous Dependent Variables
+
 ## Linear Regression
 
 For y and X has linear relationship
